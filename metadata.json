@@ -1,0 +1,5 @@
+{
+  "name": "AI Email Assistant",
+  "description": "An application that connects to your inbox, reads new emails, and uses AI to generate context-aware, professional replies. It allows for configurable tone, signature, and an optional manual approval mode to streamline email management.",
+  "requestFramePermissions": []
+}
